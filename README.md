@@ -8,3 +8,6 @@ mijin-forums,http://mijin.io/forums/forum/%E6%97%A5%E6%9C%AC%E8%AA%9E/nem/1459-n
   - ニューロサイエンス,http://material.bccn.uni-freiburg.de/publications-bccn/2007/Guerel07_1897.pdf  
   - ストリートネットワーク,https://www.researchgate.net/publication/2177752_Ranking_Space_for_Predicting_Human_Movement_in_an_Urban_Environment  
   - 検索,http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf  
+
+## Development  
+NEM Blockchain explorer,http://chain.nem.ninja/#/blocks/0  
