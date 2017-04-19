@@ -10,4 +10,5 @@ mijin-forums,http://mijin.io/forums/forum/%E6%97%A5%E6%9C%AC%E8%AA%9E/nem/1459-n
   - 検索,http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf  
 
 ## Development  
-NEM Blockchain explorer,http://chain.nem.ninja/#/blocks/0  
+New Economy Movement(NEM) APIマニュアル和訳,https://www.pr1sm.com/crypto-coin/nem-nis-api-documentation-in-japanese/#installation  
+NEM Blockchain explorer,http://chain.nem.ninja/#/blocks/0  
